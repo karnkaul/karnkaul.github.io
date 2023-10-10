@@ -1,0 +1,30 @@
+theme = "hugo-pure"
+
+[menu]
+
+[[menu.main]]
+identifier = "home"
+title = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "projects"
+title = "Projects"
+url = "/projects/"
+weight = 5
+
+# [[menu.main]]
+# identifier = "posts"
+# title = "Posts"
+# url = "/posts/"
+# weight = 5
+
+[[menu.footer]]
+identifier = "github"
+title = "Github"
+url = "https://github.com/karnkaul"
+weight = 70
+[menu.footer.params]
+iconClass = "fa-brands fa-github"
+targetBlank = true
