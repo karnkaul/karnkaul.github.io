@@ -1,5 +1,9 @@
 theme = "hugo-pure"
 
+[params]
+description = "Karn Kaul"
+summaryLength = 70
+
 [menu]
 
 [[menu.main]]
