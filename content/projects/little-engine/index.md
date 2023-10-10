@@ -1,8 +1,7 @@
 +++
 title = "Little Engine"
-description = "3D game engine using C++20 and Vulkan."
+description = "3D game engine."
 draft = false
-tags = ["engine", "3d", "graphics"]
 +++
 
 **A simple 3D game engine using C++20 and Vulkan**
