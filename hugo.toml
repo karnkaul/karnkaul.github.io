@@ -18,12 +18,6 @@ title = "Projects"
 url = "/projects/"
 weight = 5
 
-# [[menu.main]]
-# identifier = "posts"
-# title = "Posts"
-# url = "/posts/"
-# weight = 5
-
 [[menu.footer]]
 identifier = "github"
 title = "Github"
