@@ -1,6 +1,8 @@
 +++
 title = "Little Engine"
-description = "3D game engine."
+description = "3D game engine, GLTF importer, shader builder, skeletal animation demo."
+tags = ["3d", "engine", "graphics"]
+weight = 1
 draft = false
 +++
 
@@ -9,6 +11,14 @@ draft = false
 ## Source
 
 https://github.com/karnkaul/LittleEngineVk
+
+### References
+
+LittleEngineVk links to the libraries in these projects:
+
+- [capo-lite](/projects/capo-lite)
+- [djson](/projects/djson)
+- [gltf2cpp](/projects/gltf2cpp)
 
 ## Features
 

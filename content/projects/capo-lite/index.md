@@ -1,6 +1,8 @@
 +++
 title = "capo-lite"
-description = "Audio playback library."
+description = "Audio playback library, music player demo."
+tags = ["audio"]
+weight = 2
 draft = false
 +++
 

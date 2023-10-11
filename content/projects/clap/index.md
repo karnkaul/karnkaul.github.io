@@ -1,6 +1,8 @@
 +++
 title = "clap"
-description = "Command line argument parser."
+description = "Command line argument parsing library."
+tags = ["parsing"]
+weight = 10
 draft = false
 +++
 

@@ -1,6 +1,8 @@
 +++
 title = "kalcy"
-description = "Arithmetic expression evaluator."
+description = "Arithmetic expression evaluator library, REPL demo."
+tags = ["parsing"]
+weight = 10
 draft = false
 +++
 
