@@ -26,3 +26,7 @@ weight = 70
 [menu.footer.params]
 iconClass = "fa-brands fa-github"
 targetBlank = true
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
